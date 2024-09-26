@@ -1,2 +1,2 @@
-# ray_tracing_c-
+# ray_tracing_cpp
 Ray Tracing in One Weekend
