@@ -1,4 +1,4 @@
-# ray_tracing_cpp
+# Ray Tracing in One Weekend (CPP Code)
 Project in which I had fun experimenting with the Ray Tracing technique following the "Ray Tracing in One Weekend" book step by step. 
 
 
